@@ -8,5 +8,5 @@ bnet Ladder Runes For Diablo 2 SP, updated for 1.14D
 4. edit D2 shortcut Target by adding -direct -txt parameters, e.g. "C:\Program Files (x86)\Diablo II\Diablo II.exe" -direct -txt
 5. done
 
-Read the full giude at:
+Read the full guide at:
 https://gametipsandmore.blogspot.com/2016/06/diablo-2-playing-in-windows-10-with-114.html
